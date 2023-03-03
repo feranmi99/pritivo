@@ -1,0 +1,11 @@
+html {
+overflow-x: hidden;  
+}
+.fa-solid {
+    color: black;
+    margin-left: 300px;
+    margin-top: -700px;
+}
+#bg {
+    background-color: #ece8d9;
+}
